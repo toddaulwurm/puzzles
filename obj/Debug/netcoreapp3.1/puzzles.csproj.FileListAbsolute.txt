@@ -1,0 +1,13 @@
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\puzzles\obj\Debug\netcoreapp3.1\puzzles.csprojAssemblyReference.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\puzzles\obj\Debug\netcoreapp3.1\puzzles.AssemblyInfoInputs.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\puzzles\obj\Debug\netcoreapp3.1\puzzles.AssemblyInfo.cs
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\puzzles\obj\Debug\netcoreapp3.1\puzzles.csproj.CoreCompileInputs.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\puzzles\bin\Debug\netcoreapp3.1\puzzles.exe
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\puzzles\bin\Debug\netcoreapp3.1\puzzles.deps.json
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\puzzles\bin\Debug\netcoreapp3.1\puzzles.runtimeconfig.json
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\puzzles\bin\Debug\netcoreapp3.1\puzzles.runtimeconfig.dev.json
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\puzzles\bin\Debug\netcoreapp3.1\puzzles.dll
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\puzzles\bin\Debug\netcoreapp3.1\puzzles.pdb
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\puzzles\obj\Debug\netcoreapp3.1\puzzles.dll
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\puzzles\obj\Debug\netcoreapp3.1\puzzles.pdb
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\puzzles\obj\Debug\netcoreapp3.1\puzzles.genruntimeconfig.cache
